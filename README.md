@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Most of my stuff is now over at [gitlab.com/schtobia](https://gitlab.com/schtobia).
+Most of my stuff is now over at [git.schmidl.dev](https://git.schmidl.dev).
